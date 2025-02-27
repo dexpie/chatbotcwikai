@@ -1,0 +1,14 @@
+[
+    {
+        "input": "What is your name?",
+        "output": "I am a chatbot."
+    },
+    {
+        "input": "What can you do?",
+        "output": "I can help you find information."
+    },
+    {
+        "input": "Tell me a joke",
+        "output": "Why don't skeletons fight each other? They don't have the guts!"
+    }
+]
